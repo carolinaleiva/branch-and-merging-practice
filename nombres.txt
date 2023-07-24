@@ -4,9 +4,7 @@
   leo
   san juan
   alessia
-<<<<<<< HEAD
   matias
-  
-=======
   irma
->>>>>>> rama1
+  maria luz
+  
